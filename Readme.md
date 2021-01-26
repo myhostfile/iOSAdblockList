@@ -17,4 +17,4 @@ Use this link to subscribe to the list in Adguard Pro:
 https://raw.githubusercontent.com/myhostfile/iOSAdblockList/master/Hosts.txt
 
 Use this link to subscribe to the list in IP4 format:
-https://raw.githubusercontent.com/myhostfile/iOSAdblockList/master/ip4hosts.txt
+https://raw.githubusercontent.com/myhostfile/iOSAdblockList/master/Ip4Hosts.txt
