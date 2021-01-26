@@ -1,0 +1,9 @@
+0.0.0.0 tyler.logs.roku.com 
+0.0.0.0 giga.logs.roku.com 
+0.0.0.0 cooper.logs.roku.com
+0.0.0.0 gfwsl.geforce.com 
+0.0.0.0 gfe.geforce.com
+0.0.0.0 telemetry.nvidia.com
+0.0.0.0 gfe.nvidia.com
+0.0.0.0 telemetry.gfe.nvidia.com
+0.0.0.0 events.gfe.nvidia.com
