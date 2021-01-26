@@ -6508,10 +6508,10 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
-0.0.0.0 googleadservices.at$script,image
-0.0.0.0 googleadservices.co.uk$script,image
-0.0.0.0 googleadservices.org$script,image
-0.0.0.0 googleadservices.ru$script,image
+0.0.0.0 googleadservices.at
+0.0.0.0 googleadservices.co.uk
+0.0.0.0 googleadservices.org
+0.0.0.0 googleadservices.ru
 0.0.0.0 googlecm.hit.gemius.pl
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
