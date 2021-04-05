@@ -5367,7 +5367,7 @@
 0.0.0.0 discover.apester.com
 0.0.0.0 discoverapps.appia.com
 0.0.0.0 discoveryplus.popin.cc
-0.0.0.0 disney.demdex.net
+# 0.0.0.0 disney.demdex.net
 0.0.0.0 dispatch.admixer.co.kr
 0.0.0.0 dispatcher.360in.com
 0.0.0.0 dispatcher.adxcore.com
